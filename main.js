@@ -576,7 +576,7 @@ var ResumeComponent = /** @class */ (function () {
         this.title = 'my resume';
         this.educations = [
             { major: 'Business Information Technology', college: 'FPT Polytechnic', start: 2013, end: 2016 },
-            { major: 'PHP Developer', college: 'The University Of Science', start: 2017, end: 2017 },
+            { major: 'PHP Developer', college: 'Ho Chi Minh City University of Science', start: 2017, end: 2017 },
             { major: 'Frontend Developer', college: 'CyberSoft', start: 2018, end: 'Now' },
         ];
         this.skills = [
